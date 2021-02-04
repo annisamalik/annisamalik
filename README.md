@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 <br><br>
+
+[![Linkedin](https://img.shields.io/badge/-annisa%20malik-blue?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/annisa-malik/)](https://www.linkedin.com/in/annisa-malik/)
+[![Instagram](https://img.shields.io/badge/-@maliknns-purple?style=flat-square&labelColor=gray&logo=instagram&logoColor=white&link=https://instagram.com/maliknns/)](https://instagram.com/maliknns)
+
 
 <!--
 **annisamalik/annisamalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
